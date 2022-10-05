@@ -11,7 +11,7 @@ http-dict enumerates dictionary attack on web servers with a purpose to identify
 
 Dictionary by DirSearch. 
 See https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt
-Store dictionary into nmap/nselib/data/il
+Store dictionary into nmap/nselib/data/
 ]]
 
 author = {"P0lW4N", "9MM"}
