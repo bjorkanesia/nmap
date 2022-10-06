@@ -1,0 +1,14 @@
+[FOUND]
+.well-known/openid-configuration
+admin
+admin/
+admin/?/login
+api/swagger
+explore
+explore/repos
+favicon.ico
+issues
+user/login/
+v2
+v2/
+v2/_catalog
